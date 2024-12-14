@@ -8,6 +8,9 @@ Code has been seperated based on the units taught in Semester 1. This includes:
     - Mufaro's Euler Calculations
 2. Dynamics and Conservation Laws
 3. Thermodynamics
+    - Pressure Calculations
+    - Pressure Curves
+    - Brayton Cycle graphing
 4. Rotational Motion
 5. Special Relativity
 
