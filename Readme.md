@@ -14,6 +14,7 @@ Code has been seperated based on the units taught in Semester 1. This includes:
 4. Rotational Motion
 5. Special Relativity
 6. Resource Sheet (A strong Work in Progress 🤷🏼‍♂️)
+    - The resource sheet can be accessed here: https://www.overleaf.com/1297538925kncxddhyjzyp#6772c3
 
 ### Usage
 This repository is available through GitHub, which is used to consolidate all updates and changes made by users. To use this repository, download the folder from GitHub, then open the **entire folder** it in Jupyter Lab (if you don't open the entire folder you wont have access to all the sections).
